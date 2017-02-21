@@ -1,0 +1,6 @@
+[package]
+name = "rprime"
+version = "0.1.0"
+authors = ["CrazedProgrammer <crazedprogrammer@gmail.com>"]
+
+[dependencies]
